@@ -57,3 +57,28 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 
 !ENTRY org.eclipse.recommenders.models.rcp 1 0 2021-05-27 14:53:16.774
 !MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+
+!ENTRY org.eclipse.recommenders.rcp 2 23 2021-05-27 16:53:16.598
+!MESSAGE Failed to parse news feed
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 9; columnNumber: 116; The entity "raquo" was referenced, but not declared.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(Unknown Source)
+	at com.sun.org.apache.xpath.internal.jaxp.XPathExpressionImpl.evaluate(Unknown Source)
+	at org.eclipse.recommenders.internal.rcp.news.RssParser.getEntries(RssParser.java:53)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.getNewsItems(CheckForProjectNewsJob.java:97)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.doRun(CheckForProjectNewsJob.java:89)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.run(CheckForProjectNewsJob.java:62)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+--------------- linked to ------------------
+javax.xml.xpath.XPathExpressionException: org.xml.sax.SAXParseException; lineNumber: 9; columnNumber: 116; The entity "raquo" was referenced, but not declared.
+	at com.sun.org.apache.xpath.internal.jaxp.XPathExpressionImpl.evaluate(Unknown Source)
+	at org.eclipse.recommenders.internal.rcp.news.RssParser.getEntries(RssParser.java:53)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.getNewsItems(CheckForProjectNewsJob.java:97)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.doRun(CheckForProjectNewsJob.java:89)
+	at org.eclipse.recommenders.internal.rcp.news.CheckForProjectNewsJob.run(CheckForProjectNewsJob.java:62)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 9; columnNumber: 116; The entity "raquo" was referenced, but not declared.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(Unknown Source)
+	... 6 more
