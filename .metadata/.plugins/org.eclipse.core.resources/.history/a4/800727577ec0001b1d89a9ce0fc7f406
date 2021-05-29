@@ -1,0 +1,10 @@
+package Main_Code;
+import Logic_Of_Code.*;
+
+public class Red_Black_Tree_Main {
+	public static void main(String[] args)
+	{
+		Red_Black_Tree<Integer> bst=new Red_Black_Tree<>();
+		bst.insert(10);
+	}
+}

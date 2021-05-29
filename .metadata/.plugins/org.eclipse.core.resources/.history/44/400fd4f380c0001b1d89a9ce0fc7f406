@@ -1,0 +1,27 @@
+package Main_Code;
+import Logic_Of_Code.*;
+import java.util.*;
+
+public class Red_Black_Tree_Main {
+	public static void main(String[] args)
+	{
+		System.out.println("Here Provide Some Data type for Red Black Tree Choose any one of them ");
+		System.out.println("Integer");
+		System.out.println("String");
+		System.out.println("Double");
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter Your Choice for Data Type");
+		int choice=sc.nextInt();
+		
+		
+		/*Red_Black_Tree<Integer> bst=new Red_Black_Tree<>();
+		bst.insert(10);
+		bst.insert(0);
+		bst.insert(41);
+		bst.insert(45);
+		bst.insert(78);
+		bst.insert(5);
+		bst.insert(4);
+		bst.printTree();*/
+	}
+}

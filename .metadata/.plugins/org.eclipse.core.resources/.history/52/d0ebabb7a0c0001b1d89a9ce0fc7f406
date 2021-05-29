@@ -1,0 +1,16 @@
+package Test;
+import Logic_Of_Code.*;
+import Main_Code.*;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class Red_Black_Tree_Test {
+
+	@Test
+	public void test() {
+		Red_Black_Tree<Integer> tbti=new Red_Black_Tree<>();
+	}
+
+}
