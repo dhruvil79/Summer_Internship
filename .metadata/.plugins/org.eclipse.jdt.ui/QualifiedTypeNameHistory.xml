@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="Interface.Red_Black_Tree_Interface"/>
+<fullyQualifiedTypeName name="Main_Program.Red_Black_Tree.Color"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="Main_Code.Red_Black_Tree_Main"/>
+<fullyQualifiedTypeName name="javax.xml.soap.Node"/>
+<fullyQualifiedTypeName name="Logic_Of_Code.Red_Black_Tree"/>
+<fullyQualifiedTypeName name="Logic_Of_Code.Red_Black_Tree.Node"/>
 </qualifiedTypeNameHistroy>
