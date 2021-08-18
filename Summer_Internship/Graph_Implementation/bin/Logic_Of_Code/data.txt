@@ -1,0 +1,380 @@
+0	201712001	7.8	Shally Boris
+1	201712002	7.8	Aron Tolls
+2	201712003	7.8	Astin Baker
+3	201712004	6.4	Bilas Vart
+4	201712005	5.9	Sanor Pike
+5	201712006	8.5	Victor Bol
+6	201712007	7.4	Tom Molli
+7	201712008	7.7	Rose Marin
+8	201712009	8.5	Louis Agassiz
+9	201712010	8	Maria Gaetana Agnesi
+10	201712011	7.5	Al-Battani
+11	201712012	8	Abu Nasr Al-Farabi
+12	201712013	10	Jim Al-Khalili
+13	201712014	8	Muhammad ibn Musa al-Khwarizmi
+14	201712015	7.5	Mihailo Petrovic Alas
+15	201712016	8.2	Angel Alcala
+16	201712017	8	Salim Ali
+17	201712018	7.1	Luis Alvarez
+18	201712019	7	Andre Marie Amp�re
+19	201712020	10	Anaximander
+20	201712021	9.5	Mary Anning
+21	201712022	8	Virginia Apgar
+22	201712023	9.5	Archimedes
+23	201712024	7.5	Agnes Arber
+24	201712025	9	Aristarchus
+25	201712026	9	Aristotle
+26	201712027	7	Svante Arrhenius
+27	201712028	10	Oswald Avery
+28	201712029	7.6	Amedeo Avogadro
+29	201712030	9	Avicenna
+30	201712031	9	Charles Babbage
+31	201712032	9.5	Francis Bacon
+32	201712033	9	Alexander Bain
+33	201712034	10	John Logie Baird
+34	201712035	9.5	Joseph Banks
+35	201712036	10	Ramon Barba
+36	201712037	10	John Bardeen
+37	201712038	10	Ibn Battuta
+38	201712039	7.9	William Bayliss
+39	201712040	9.1	George Beadle
+40	201712041	6.5	Arnold Orville Beckman
+41	201712042	6.5	Henri Becquerel
+42	201712043	6.5	Emil Adolf Behring
+43	201712044	7.4	Alexander Graham Bell
+44	201712045	10	Emile Berliner
+45	201712046	8.6	Claude Bernard
+46	201712047	9.2	Timothy John Berners-Lee
+47	201712048	8	Daniel Bernoulli
+48	201712049	9	Jacob Berzelius
+49	201712050	7.5	Henry Bessemer
+50	201712051	9.5	Hans Bethe
+51	201712052	7	Homi Jehangir Bhabha
+52	201712053	7	Alfred Binet
+53	201712054	8	Clarence Birdseye
+54	201712055	7.5	Kristian Birkeland
+55	201712056	10	Elizabeth Blackwell
+56	201712057	10	Alfred Blalock
+57	201712058	6.5	Katharine Burr Blodgett
+58	201712059	6.5	Franz Boas
+59	201712060	8.5	David Bohm
+60	201712061	7.5	Aage Bohr
+61	201712062	9	Niels Bohr
+62	201712063	7.1	Ludwig Boltzmann
+63	201712064	9.5	Max Born
+64	201712065	9.4	Carl Bosch
+65	201712066	10	Robert Bosch
+66	201712067	8.5	Jagadish Chandra Bose
+67	201712068	9.5	Satyendra Nath Bose
+68	201712069	7.4	Walther Wilhelm Georg Bothe
+69	201712070	7.5	Robert Boyle
+70	201712071	10	Lawrence Bragg
+71	201712072	7	Tycho Brahe
+72	201712073	7	Brahmagupta
+73	201712074	7.5	Georg Brandt
+74	201712075	8.5	Wernher Von Braun
+75	201712076	7	Louis de Broglie
+76	201712077	7.5	Alexander Brongniart
+77	201712078	9	Robert Brown
+78	201712079	6.5	Michael E. Brown
+79	201712080	10	Lester R. Brown
+80	201712081	9	Eduard Buchner
+81	201712082	9.5	William Buckland
+82	201712083	7.2	Georges Louis
+83	201712084	6.5	Robert Bunsen
+84	201712085	6.5	Luther Burbank
+85	201712086	7	Jocelyn Bell Burnell
+86	201712087	9.1	Macfarlane Burnet
+87	201712088	7.5	Thomas Burnet
+88	201712089	7.6	Benjamin Cabrera
+89	201712090	9	Santiago Ramon y Cajal
+90	201712091	7.5	Rachel Carson
+91	201712092	8.5	George Washington Carver
+92	201712093	8.7	Henry Cavendish
+93	201712094	8.5	Anders Celsius
+94	201712095	7.5	James Chadwick
+95	201712096	6.5	Subrahmanyan Chandrasekhar
+96	201712097	10	Erwin Chargaff
+97	201712098	7.5	Noam Chomsky
+98	201712099	8	Steven Chu
+99	201712100	7.5	Leland Clark
+100	201712101	9	Arthur Compton
+101	201712102	8.5	Nicolaus Copernicus
+102	201712103	7.5	Gerty Theresa Cori
+103	201712104	7	Charles Augustin
+104	201712105	9.5	Jacques Cousteau
+105	201712106	7.5	Brian Cox
+106	201712107	8.5	Francis Crick
+107	201712108	9	Nicholas Culpeper
+108	201712109	7	Marie Curie
+109	201712110	10	Pierre Curie
+110	201712111	7	Georges Cuvier
+111	201712112	9	Adalbert Czerny
+112	201712113	9.5	Gottlieb Daimler
+113	201712114	8.5	John Dalton
+114	201712115	7	James Dwight Dana
+115	201712116	10	Charles Darwin
+116	201712117	9.5	Humphry Davy
+117	201712118	9.5	Peter Debye
+118	201712119	10	Max Delbruck
+119	201712120	6.5	Jean Andre Deluc
+120	201712121	10	Ren� Descartes
+121	201712122	9	Rudolf Christian
+122	201712123	8	Karl Diesel
+123	201712124	10	Paul Dirac
+124	201712125	6.5	Prokop Divis
+125	201712126	8.5	Theodosius Dobzhansky
+126	201712127	10	Frank Drake
+127	201712128	7.5	K. Eric Drexler
+128	201712129	9.5	Arthur Eddington
+129	201712130	6.5	Thomas Edison
+130	201712131	8	Paul Ehrlich
+131	201712132	9.5	Albert Einstein
+132	201712133	9.5	Gertrude Elion
+133	201712134	10	Empedocles
+134	201712135	8	Eratosthenes
+135	201712136	10	Euclid
+136	201712137	6.5	Leonhard Euler
+137	201712138	10	Michael Faraday
+138	201712139	10	Pierre de Fermat
+139	201712140	9.5	Enrico Fermi
+140	201712141	9.5	Richard Feynman
+141	201712142	9	Leonardo Pisa
+142	201712143	7	Emil Fischer
+143	201712144	9.5	Ronald Fisher
+144	201712145	10	Alexander Fleming
+145	201712146	7	Henry Ford
+146	201712147	8	Lee De Forest
+147	201712148	9	Dian Fossey
+148	201712149	9.5	Leon Foucault
+149	201712150	8	Benjamin Franklin
+150	201712151	6.5	Rosalind Franklin
+151	201712152	7.4	Sigmund Freud
+152	201712153	9.5	Galen
+153	201712154	6.5	Galileo Galilei
+154	201712155	9	Francis Galton
+155	201712156	8	Luigi Galvani
+156	201712157	7.5	George Gamow
+157	201712158	7	Carl Friedrich Gauss
+158	201712159	10	Murray Gell-Mann
+159	201712160	8.5	Sophie Germain
+160	201712161	9.2	Willard Gibbs
+161	201712162	9	William Gilbert
+162	201712163	8.5	Sheldon Lee Glashow
+163	201712164	10	Robert Goddard
+164	201712165	8	Maria Goeppert-Mayer
+165	201712166	8.2	Thomas Gold
+166	201712167	8	Jane Goodall
+167	201712168	8.5	Stephen Jay Gould
+168	201712169	9.5	Fritz Haber
+169	201712170	8	Ernst Haeckel
+170	201712171	10	Otto Hahn
+171	201712172	9.5	Albrecht von Haller
+172	201712173	6.9	Edmund Halley
+173	201712174	8.5	Thomas Harriot
+174	201712175	7.8	William Harvey
+175	201712176	10	Stephen Hawking
+176	201712177	7	Otto Haxel
+177	201712178	9.5	Werner Heisenberg
+178	201712179	6.7	Hermann von Helmholtz
+179	201712180	10	Jan Baptist von Helmont
+180	201712181	6.5	Joseph Henry
+181	201712182	6.5	William Herschel
+182	201712183	8.4	Gustav Ludwig Hertz
+183	201712184	10	Heinrich Hertz
+184	201712185	9	Karl F. Herzfeld
+185	201712186	6.5	Antony Hewish
+186	201712187	9	David Hilbert
+187	201712188	9.3	Maurice Hilleman
+188	201712189	7.5	Hipparchus
+189	201712190	9	Hippocrates
+190	201712191	8	Shintaro Hirase
+191	201712192	9.2	Dorothy Hodgkin
+192	201712193	9.5	Robert Hooke
+193	201712194	8.5	Frederick Gowland Hopkins
+194	201712195	9.5	William Hopkins
+195	201712196	6.5	Grace Murray Hopper
+196	201712197	9.5	Frank Hornby
+197	201712198	10	Jack Horner
+198	201712199	10	Bernardo Houssay
+199	201712200	10	Fred Hoyle
+200	201712201	8.6	Edwin Hubble
+201	201712202	7	Alexander von Humboldt
+202	201712203	6.5	Zora Neale Hurston
+203	201712204	8.5	James Hutton
+204	201712205	7	Christiaan Huygens
+205	201712206	9.7	Ernesto Illy
+206	201712207	9.5	Ernst Ising
+207	201712208	9	Keisuke Ito
+208	201712209	7	Mae Carol Jemison
+209	201712210	9.5	Edward Jenner
+210	201712211	7	J. Hans D. Jensen
+211	201712212	9.1	Irene Joliot-Curie
+212	201712213	9	James Prescott Joule
+213	201712214	7	Percy Lavon Julian
+214	201712215	8.5	Michio Kaku
+215	201712216	8.5	Heike Kamerlingh Onnes
+216	201712217	9	Friedrich August Kekul
+217	201712218	9.4	Frances Kelsey
+218	201712219	10	Pearl Kendrick
+219	201712220	9	Johannes Kepler
+220	201712221	7.9	Abdul Qadeer Khan
+221	201712222	6.5	Omar Khayyam
+222	201712223	6.5	Alfred Kinsey
+223	201712224	10	Gustav Kirchoff
+224	201712225	9.9	Robert Koch
+225	201712226	9	Emil Kraepelin
+226	201712227	10	Thomas Kuhn
+227	201712228	7.5	Stephanie Kwolek
+228	201712229	7.9	Jean-Baptiste Lamarck
+229	201712230	7	Hedy Lamarr
+230	201712231	10	Edwin Herbert Land
+231	201712232	9	Karl Landsteiner
+232	201712233	7.8	Pierre-Simon Laplace
+233	201712234	7.5	Max von Laue
+234	201712235	7.6	Antoine Lavoisier
+235	201712236	9.5	Ernest Lawrence
+236	201712237	8.1	Henrietta Leavitt
+237	201712238	10	Antonie van Leeuwenhoek
+238	201712239	7.3	Inge Lehmann
+239	201712240	9.5	Gottfried Leibniz
+240	201712241	9.5	Georges Lema�tre
+241	201712242	10	Leonardo da Vinci
+242	201712243	7	Niccolo Leoniceno
+243	201712244	9.1	Aldo Leopold
+244	201712245	9	Rita Levi-Montalcini
+245	201712246	9	Claude Levi-Strauss
+246	201712247	8.4	Willard Frank Libby
+247	201712248	6.5	Justus von Liebig
+248	201712249	6.5	Carolus Linnaeus
+249	201712250	7.5	Joseph Lister
+250	201712251	8.5	John Locke
+251	201712252	8.2	Hendrik Antoon Lorentz
+252	201712253	8	Konrad Lorenz
+253	201712254	9.5	Ada Lovelace
+254	201712255	6.7	Lucretius
+255	201712256	7.5	Charles Lyell
+256	201712257	6.5	Trofim Lysenko
+257	201712258	6.6	Ernst Mach
+258	201712259	7.5	Marcello Malpighi
+259	201712260	6.5	Jane Marcet
+260	201712261	9.5	Guglielmo Marconi
+261	201712262	10	Lynn Margulis
+262	201712263	8.1	James Clerk Maxwell
+263	201712264	8.5	Ernst Mayr
+264	201712265	7	Barbara McClintock
+265	201712266	9.5	Lise Meitner
+266	201712267	8	Gregor Mendel
+267	201712268	9.2	Dmitri Mendeleev
+268	201712269	6.5	Franz Mesmer
+269	201712270	7.5	Antonio Meucci
+270	201712271	6.7	Albert Abraham Michelson
+271	201712272	7.5	Thomas Midgeley Jr.
+272	201712273	7.4	Maria Mitchell
+273	201712274	9.5	Mario Molina
+274	201712275	9.5	Thomas Hunt Morgan
+275	201712276	8	Henry Moseley
+276	201712277	8.5	Ukichiro Nakaya
+277	201712278	9.5	John Napier
+278	201712279	9.5	John Needham
+279	201712280	8.8	John von Neumann
+280	201712281	7.8	Thomas Newcomen
+281	201712282	9.5	Isaac Newton
+282	201712283	9.5	Florence Nightingale
+283	201712284	6.5	Tim Noakes
+284	201712285	10	Alfred Nobel
+285	201712286	8.1	Emmy Noether
+286	201712287	8	Christiane Nusslein-Volhard
+287	201712288	7.4	Bill Nye
+288	201712289	6.5	Hans Christian Oersted
+289	201712290	9.3	Georg Ohm
+290	201712291	9	J. Robert Oppenheimer
+291	201712292	9.1	Wilhelm Ostwald
+292	201712293	7.5	Blaise Pascal
+293	201712294	8.1	Louis Pasteur
+294	201712295	10	Wolfgang Ernst Pauli
+295	201712296	7.5	Linus Pauling
+296	201712297	10	Randy Pausch
+297	201712298	9	Ivan Pavlov
+298	201712299	7.5	Marguerite Perey
+299	201712300	8.5	Jean Piaget
+300	201712301	7.5	Philippe Pinel
+301	201712302	7.5	Max Planck
+302	201712303	9	Pliny the Elder
+303	201712304	9.2	Karl Popper
+304	201712305	9.5	Beatrix Potter
+305	201712306	8	Joseph Priestley
+306	201712307	6.9	Claudius Ptolemy
+307	201712308	6.5	Pythagoras
+308	201712309	7	Harriet Quimby
+309	201712310	6.5	Thabit ibn Qurra
+310	201712311	8	William Ramsay
+311	201712312	10	John Ray
+312	201712313	7.3	Prafulla Chandra Ray
+313	201712314	8	Francesco Redi
+314	201712315	6.5	Sally Ride
+315	201712316	7	Bernhard Riemann
+316	201712317	9.5	Wilhelm R�ntgen
+317	201712318	9.2	Hermann Rorschach
+318	201712319	9.5	Ronald Ross
+319	201712320	9	Ibn Rushd
+320	201712321	6.5	Ernest Rutherford
+321	201712322	8	Carl Sagan
+322	201712323	7.8	Mohammad Abdus Salam
+323	201712324	8.5	Jonas Salk
+324	201712325	7.7	Frederick Sanger
+325	201712326	6.5	Alberto Santos-Dumont
+326	201712327	7.5	Walter Schottky
+327	201712328	9.5	Erwin Schr�dinger
+328	201712329	7.5	Theodor Schwann
+329	201712330	9	Glenn Seaborg
+330	201712331	9	Hans Selye
+331	201712332	10	Charles Sherrington
+332	201712333	8.5	Gene Shoemaker
+333	201712334	10	Ernst Werner von Siemens
+334	201712335	7.2	George Gaylord Simpson
+335	201712336	7	B. F. Skinner
+336	201712337	6.8	William Smith
+337	201712338	9.5	Frederick Soddy
+338	201712339	8	Arnold Sommerfeld
+339	201712340	9.5	Nettie Stevens
+340	201712341	10	William John Swainson
+341	201712342	8	Leo Szilard
+342	201712343	6.5	Niccolo Tartaglia
+343	201712344	6.5	Edward Teller
+344	201712345	7.5	Nikola Tesla
+345	201712346	7.5	Thales of Miletus
+346	201712347	8.5	Benjamin Thompson
+347	201712348	10	J. J. Thomson
+348	201712349	8.3	William Thomson
+349	201712350	9	Henry David Thoreau
+350	201712351	7.5	Kip S. Thorne
+351	201712352	7	Clyde Tombaugh
+352	201712353	7.6	Evangelista Torricelli
+353	201712354	7.5	Charles Townes
+354	201712355	7.6	Alan Turing
+355	201712356	7.5	Neil deGrasse Tyson
+356	201712357	9	Harold Urey
+357	201712358	6.7	Craig Venter
+358	201712359	10	Vladimir Vernadsky
+359	201712360	9.5	Andreas Vesalius
+360	201712361	9	Rudolf Virchow
+361	201712362	9.1	Artturi Virtanen
+362	201712363	9	Alessandro Volta
+363	201712364	7.5	George Wald
+364	201712365	7.5	Alfred Russel Wallace
+365	201712366	7.3	James Watson
+366	201712367	8.8	James Watt
+367	201712368	9.1	Alfred Wegener
+368	201712369	9.4	John Archibald Wheeler
+369	201712370	7.5	Maurice Wilkins
+370	201712371	10	Thomas Willis
+371	201712372	7.5	E. O. Wilson
+372	201712373	6.5	Sven Wingqvist
+373	201712374	8.1	Sergei Winogradsky
+374	201712375	8.5	Friedrich W�hler
+375	201712376	8.5	Wilbur and Orville Wright
+376	201712377	7.1	Wilhelm Wundt
+377	201712378	9.3	Chen-Ning Yang
+378	201712379	8.3	Ahmed Zewail
+-1

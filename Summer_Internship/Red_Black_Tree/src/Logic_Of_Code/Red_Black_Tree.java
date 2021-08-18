@@ -3,14 +3,12 @@
 package Logic_Of_Code;
 import Interface.*;
 
-
 public class Red_Black_Tree<T extends Comparable<T>> implements Red_Black_Tree_Interface<T>  {
 	
 	public  enum Color
 	{
 		RED,
-		BLACK
-		
+		BLACK	
 	}
 	public class Node 
 	{

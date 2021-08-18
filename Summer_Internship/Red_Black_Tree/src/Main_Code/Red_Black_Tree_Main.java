@@ -263,11 +263,14 @@ public class Red_Black_Tree_Main {
 	public static void main(String[] args)
 	{
 		Scanner sc=new Scanner(System.in);
+		System.out.println("----------------------------------------------------------------");
+		System.out.println("------------------    Red Black Tree    ------------------------");
+		System.out.println("----------------------------------------------------------------");
 		System.out.println("Here Provide Some Data type for Red Black Tree Choose any one of them ");
 		System.out.println("1.Integer");
 		System.out.println("2.String");
 		System.out.println("3.Double");
-		System.out.println("Enter Your Choice for Data Type");
+		System.out.print("Enter Your Choice for Data Type : ");
 		int choice=sc.nextInt();
 		Red_Black_Tree_Main.flow(choice);
 		sc.close();
